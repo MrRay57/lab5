@@ -1,0 +1,14 @@
+{
+  "1": {
+    "id": 1,
+    "name": "dsf",
+    "coordinates": {
+      "x": 23,
+      "y": 234.0
+    },
+    "creationDate": "2026-03-15T20:50:39.345127+03:00[Europe/Moscow]",
+    "oscarsCount": 234,
+    "totalBoxOffice": 324.0,
+    "length": 234
+  }
+}
