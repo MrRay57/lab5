@@ -1,0 +1,26 @@
+{
+  "1": {
+    "id": 3,
+    "name": "wwwwwwwwww",
+    "coordinates": {
+      "x": 12,
+      "y": 213.0
+    },
+    "creationDate": "2026-03-15T19:43:28.229669+03:00[Europe/Moscow]",
+    "oscarsCount": 123,
+    "totalBoxOffice": 123.0,
+    "length": 123
+  },
+  "34": {
+    "id": 2,
+    "name": "23в23вцыв",
+    "coordinates": {
+      "x": 23,
+      "y": 23.0
+    },
+    "creationDate": "2026-03-15T19:32:59.065215+03:00[Europe/Moscow]",
+    "oscarsCount": 23,
+    "totalBoxOffice": 32.0,
+    "length": 23
+  }
+}
